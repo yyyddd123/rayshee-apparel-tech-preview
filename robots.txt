@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Domain-based sitemap should be generated from the final WordPress host.
